@@ -63,6 +63,16 @@
             android:text=""
             android:id="@+id/text_view_2"
             android:layout_marginTop="10dp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="15sp"
+            android:textColor="#0D63A6"
+            android:text="Go to ignore binding activity"
+            android:id="@+id/text_view_ignore"
+            android:layout_marginTop="30dp"/>
+
     </LinearLayout>
 </LinearLayout>
 
